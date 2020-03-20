@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "unstorage:block/server_sides",
+    "down": "unstorage:block/server_sides",
+    "up": "unstorage:block/server_sides",
+    "east": "unstorage:block/server_sides",
+    "west": "unstorage:block/server_sides",
+    "north": "unstorage:block/standard_storage_server_front",
+    "south": "unstorage:block/server_sides"
+  }
+}
